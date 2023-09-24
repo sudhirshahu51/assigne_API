@@ -1,0 +1,9 @@
+# Ignore virtual environment directories
+my_django_env/
+
+# Ignore compiled Python files
+*.pyc
+#Ignore common .md files
+personal_notes.md
+# Ignore database files
+db.sqlite3
